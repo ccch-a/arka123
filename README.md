@@ -1,6 +1,6 @@
 # АРКА 123 - landing page
 
-### page - https://ccch-a.github.io/arka123/
+### landing - https://ccch-a.github.io/arka123/
 
 ### logo animation - https://ccch-a.github.io/arka123/logo-anim.html
 
